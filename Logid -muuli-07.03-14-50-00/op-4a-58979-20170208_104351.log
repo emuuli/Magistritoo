@@ -1,0 +1,23 @@
+
+Esitaja: Artjom Valdas (58979), K veebr  8 10:43:51 EET 2017
+
+<|--
+-Viga faili tmp-empty.py testimisel
+--|>
+############################################################
+Points: 0 , max_points: 0
+Grade :=>> 2
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/vpl.py", line 45, in run_test_suite
+    grader_result = grader.test_module(tester_file, solution_file, other_files=asset_files)
+  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/core.py", line 116, in test_module
+    with AssetFolder(tester_path, solution_path, other_files) as assets:
+  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/asset_management.py", line 39, in __init__
+    self.other_files = list(map(self._copy, other_files))
+  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/asset_management.py", line 52, in _copy
+    return copy(file_path, self.path)
+  File "/usr/lib/python3.5/shutil.py", line 235, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/usr/lib/python3.5/shutil.py", line 114, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: 'screenshot.jpg'

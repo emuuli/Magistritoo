@@ -1,0 +1,13 @@
+
+Esitaja: Erik Kangilaski (74103), T veebr  7 22:09:19 EET 2017
+
+{'success': True, 'results': [{'description': 'Pildituvastus', 'log': [], 'time': '1.638', 'error_message': 'AssertionError: Kahjuks ei suutnud pildituvastamise automaatkontroll Teie esitatud lahendusest piisavalt selgelt pilti välja lugeda. Teie pildituvastuse skoor oli 8.47%, kuid minimaalne skoor automaatseks arvestuseks on 70%. Teil on võimalik oma pildile lisada detaile, et seda oleks parem tuvastada. Kui soovite pildi nii jätta, siis hinnatakse Teie pilt käsitsi.', 'success': False, 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/execution_base.py", line 63, in call_test_function\n    **pre_hook_info["extra_kwargs"]\n  File "/usr/local/lib/python3.5/dist-packages/grader-0.0.1-py3.5.egg/grader/core.py", line 46, in wrapper\n    result = test_function(module, *args, **kwargs)\n  File "/tmp/tmpzwffx9ad/tester.py", line 63, in do_test\n    assert (float(finalResult) >= 70), "Kahjuks ei suutnud pildituvastamise automaatkontroll Teie esitatud lahendusest piisavalt selgelt pilti välja lugeda. Teie pildituvastuse skoor oli " + finalResult + "%, kuid minimaalne skoor automaatseks arvestuseks on 70%. Teil on võimalik oma pildile lisada detaile, et seda oleks parem tuvastada. Kui soovite pildi nii jätta, siis hinnatakse Teie pilt käsitsi."\nAssertionError: Kahjuks ei suutnud pildituvastamise automaatkontroll Teie esitatud lahendusest piisavalt selgelt pilti välja lugeda. Teie pildituvastuse skoor oli 8.47%, kuid minimaalne skoor automaatseks arvestuseks on 70%. Teil on võimalik oma pildile lisada detaile, et seda oleks parem tuvastada. Kui soovite pildi nii jätta, siis hinnatakse Teie pilt käsitsi.\n'}]}
+<|--
+-Pildituvastus ... VIGA
+Kahjuks ei suutnud pildituvastamise automaatkontroll Teie esitatud lahendusest piisavalt selgelt pilti välja lugeda. Teie pildituvastuse skoor oli 8.47%, kuid minimaalne skoor automaatseks arvestuseks on 70%. Teil on võimalik oma pildile lisada detaile, et seda oleks parem tuvastada. Kui soovite pildi nii jätta, siis hinnatakse Teie pilt käsitsi.
+--|>
+
+
+############################################################
+Points: 0 , max_points: 1.0
+Grade :=>> 1
