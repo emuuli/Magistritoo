@@ -6,6 +6,8 @@ https://www.dropbox.com/sh/2bgz4yd2s2kw7pp/AAAw4smEY2b3fpdASqW_ZV2Sa?dl=0
 
 Logide kaustades asuvad logid, mida võeti jooksvalt Moodlest, kui tudengid süsteemi kasutasid.
 
+Moodle kaustas on peamised Pythoni failid, mida oli tarvis süsteemi rakendamisel.
+
 Statistika tabelis on info erinevate kursuste ülesannete esituste kohta.
 
 Erinevates .py laiendiga failides on test-skriptid, mida kasutati teenuste testimiseks.
