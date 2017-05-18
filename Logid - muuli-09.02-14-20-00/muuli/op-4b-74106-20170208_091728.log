@@ -1,0 +1,16 @@
+
+Esitaja: Christopher Aasamäe (74106), K veebr  8 09:17:28 EET 2017
+
+{'results': [{'description': 'Pildituvastus', 'traceback': 'Timeout', 'error_message': 'Timeout', 'log': [], 'time': '60.011', 'success': False}], 'success': True}
+<|--
+-Pildituvastus ... VIGA
+Timeout
+
+Täielik veateade:
+>Timeout
+--|>
+
+
+############################################################
+Points: 0 , max_points: 1.0
+Grade :=>> 1
