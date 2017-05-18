@@ -1,0 +1,15 @@
+car.PNG - {"status_code": "OK", "status_msg": "All images in request have completed successfully. ", "meta": {"tag": {"timestamp": 1483981479.667379, "model": "general-v1.3", "config": null}}, "results": [{"docid": 255737868831990977740064075064818445977, "status_code": "OK", "status_msg": "OK", "local_id": "", "result": {"tag": {"classes": ["sign", "sign", "sign"], "concept_ids": ["ai_N4nkps1d", "ai_h16c4hS0", "ai_dCGTWvms"], "probs": [0.6774317026138306, 0.02396681159734726, 0.6181745529174805]}}, "docid_str": "c065526b4c2c24209621ef09c926ae99"}]}
+This took 1.24 seconds 
+The probability is 0.68 
+code.PNG - {"status_code": "OK", "status_msg": "All images in request have completed successfully. ", "meta": {"tag": {"timestamp": 1483981481.840867, "model": "general-v1.3", "config": null}}, "results": [{"docid": 294091298159435899800850698354810354125, "status_code": "OK", "status_msg": "OK", "local_id": "", "result": {"tag": {"classes": ["sign", "sign", "sign"], "concept_ids": ["ai_N4nkps1d", "ai_h16c4hS0", "ai_dCGTWvms"], "probs": [0.46637457609176636, 0.00945883896201849, 0.7561255693435669]}}, "docid_str": "dd3fec7af05549b9e9dd522690daf9cd"}]}
+This took 2.42 seconds 
+The probability is 0.76 
+house.PNG - {"status_code": "OK", "status_msg": "All images in request have completed successfully. ", "meta": {"tag": {"timestamp": 1483981483.015639, "model": "general-v1.3", "config": null}}, "results": [{"docid": 270008514703620714078575633011146196194, "status_code": "OK", "status_msg": "OK", "local_id": "", "result": {"tag": {"classes": ["sign", "sign", "sign"], "concept_ids": ["ai_N4nkps1d", "ai_h16c4hS0", "ai_dCGTWvms"], "probs": [0.476427286863327, 0.07371771335601807, 0.23349201679229736]}}, "docid_str": "cb21bf9539422976d3ee260fed1384e2"}]}
+This took 0.76 seconds 
+The probability is 0.48 
+house2.PNG - {"status_code": "OK", "status_msg": "All images in request have completed successfully. ", "meta": {"tag": {"timestamp": 1483981484.235485, "model": "general-v1.3", "config": null}}, "results": [{"docid": 334137957461532974095506571189332005602, "status_code": "OK", "status_msg": "OK", "local_id": "", "result": {"tag": {"classes": ["sign", "sign", "sign"], "concept_ids": ["ai_N4nkps1d", "ai_h16c4hS0", "ai_dCGTWvms"], "probs": [0.7328979969024658, 0.14546075463294983, 0.41195809841156006]}}, "docid_str": "fb60a13978085984163816bbd070d2e2"}]}
+This took 1.26 seconds 
+The probability is 0.73 
+house3.PNG - {"status_code": "OK", "status_msg": "All images in request have completed successfully. ", "meta": {"tag": {"timestamp": 1483981486.384499, "model": "general-v1.3", "config": null}}, "results": [{"docid": 137081477400217671655327371714759387319, "status_code": "OK", "status_msg": "OK", "local_id": "", "result": {"tag": {"classes": ["sign", "sign", "sign"], "concept_ids": ["ai_N4nkps1d", "ai_h16c4hS0", "ai_dCGTWvms"], "probs": [0.3352445960044861, 0.050356313586235046, 0.023285511881113052]}}, "docid_str": "6720eea59d9212c2fab64dee16fa68b7"}]}
+This took 1.99 seconds 
+The probability is 0.34 
